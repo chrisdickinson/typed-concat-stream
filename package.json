@@ -1,6 +1,6 @@
 {
   "name": "typed-concat-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "concat-stream, but for outputting typed arrays",
   "main": "index.js",
   "scripts": {
